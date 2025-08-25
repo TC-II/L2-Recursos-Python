@@ -1,5 +1,5 @@
 # Introducción a Python
-
+ 
 ## Primeros Pasos
 
 Antes de descargar este repositorio y empezar los videos es importante completar el set up del entorno de trabajo. Para ello, sigue las instrucciones del siguiente video:
