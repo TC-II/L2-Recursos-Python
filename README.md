@@ -1,4 +1,4 @@
-# Teoria de Circuitos II - Python
+# Introducción a Python
 
 ## Primeros Pasos
 
